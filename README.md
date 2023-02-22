@@ -11,7 +11,7 @@ Uma tela onde o usuário visualiza um cartão de embarque.
 <br>
 
 <p align="center">
-  <img src=".github/preview.jpg" width="100%">
+  <img src=".github/Cartão-de-Embarque.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -27,6 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1205146101173113980). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
+
 ## 📝 License
 
 Esse projeto está sob a licença MIT.
